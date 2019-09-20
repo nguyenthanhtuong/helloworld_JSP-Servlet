@@ -1,1 +1,5 @@
-jhj
+1.git clone tên
+2.git add .
+3.git commit -m "mo ta"
+4.git push
+5.git pull //update
